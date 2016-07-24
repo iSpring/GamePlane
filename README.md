@@ -20,7 +20,7 @@
 
  - 我们定义了`Sprite`类，即精灵类，游戏中的飞机、子弹、奖励道具等都是继承自该类，我们通过moveTo()、move()等方法控制精灵的位置，通过beforeDraw()、onDraw()、afterDraw()实现相应的绘图逻辑。精灵类及其子类继承如下所示：
  
-  ![这里写图片描述](http://img.blog.csdn.net/20160724122541694)
+  ![这里写图片描述](https://github.com/iSpring/GamePlane/blob/master/sprite.png)
 
  - GameView是我们自定义的View类，主要重写了`onDraw()`和`onTouchEvent()`方法。onDraw()源码如下所示：
 
