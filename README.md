@@ -10,9 +10,9 @@
  4. 获得双发子弹之后，子弹变为双发
  5. 获得炸弹道具之后，可以通过双击将屏幕内的所有敌机炸毁
 
-![这里写图片描述](http://img.blog.csdn.net/20160724114812897)
+![这里写图片描述](https://github.com/iSpring/GamePlane/blob/master/game.png)
 
-![这里写图片描述](http://img.blog.csdn.net/20160723235050315)
+![这里写图片描述](https://github.com/iSpring/GamePlane/blob/master/screenshot.gif)
 
 
 实现
